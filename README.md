@@ -1,2 +1,2 @@
-# ecoSort
- We sort it, So you don't have to
+# camera-app
+Super awesome camera web app built with HTML, CSS, and JS.
