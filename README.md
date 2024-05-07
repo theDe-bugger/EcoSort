@@ -1,6 +1,9 @@
 # Demo Video
 https://youtu.be/y_FYCLihdAI
 
+## DevPost
+The website no longer functions due to the expired Microsoft Azure API; however, you can  check out the devpost submission here:https://devpost.com/software/ecosort-jhrp0e
+
 # The Issue at Hand
 
 ## Global Waste Management
@@ -61,5 +64,3 @@ Using a simple sort system (similar to movable garbage chutes), a camera, and si
 
 The user throws the items one by one into an input chute which contains the camera. The software snaps a picture of the item, and the ML component determines which bin it should go into. Based on this, the required chute is opened and the object would fall into the designated bin (recycling, compost, or garbage). With more information, this system can be applied easily to all around the world to reduce carbon emissions!
 
-# Links
-The website no longer functions due to the expired Microsoft Azure API; however, you can  check out the devpost submission here:https://devpost.com/software/ecosort-jhrp0e
