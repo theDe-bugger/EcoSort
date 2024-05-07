@@ -1,3 +1,6 @@
+# Demo Video
+[![Watch the video]([https://i.stack.imgur.com/Vp2cE.png)](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/068/048/datas/gallery.jpg)](https://youtu.be/y_FYCLihdAI)
+
 # The Issue at Hand
 
 ## Global Waste Management
